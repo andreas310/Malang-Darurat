@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Malang Emergency</string>
+    <string name="polisi">Polisi</string>
+    <string name="polblimbing">Polsekta Blimbing</string>
+    <string name="polkedung">Polsekta Kedungkandang</string>
+    <string name="polklojen">Polsekta Klojen</string>
+    <string name="pollowok">Polsekta Lowokwaru</string>
+    <string name="polsukun">Polsekta Sukun</string>
+    <string name="bpbd_malang">BPBD Malang</string>
+    <string name="pmi">PMI</string>
+    <string name="pemadam_kebakaran">Pemadam Kebakaran</string>
+    <string name="rs">Rumah Sakit</string>
+    <string name="rsmutiara">RSIA Mutiara Bunda</string>
+    <string name="rsnirmala">RSU Nirmala</string>
+    <string name="rsaisiyah">RSI Aisyiyah</string>
+    <string name="rsunisma">RSI Unisma</string>
+    <string name="rssoepraoen">RST Soepraoen</string>
+    <string name="about">About</string>
+</resources>
